@@ -1,0 +1,25 @@
+{
+    "project_name": "Measuring General Intelligence: Learnability vs Cognitive Skills Study",
+    "year": 2023,
+    "status": "Complete", 
+    "keywords": [
+      "Cognitive Skills",
+      "Learnability",
+      "Educational Assessment",
+      "Learning Analytics",
+      "IQ Testing",
+      "Educational Technology"
+    ],
+    "languages/tools": [
+      "Python",
+      "R",
+      "Item Response Theory",
+      "Linear Regression",
+      "Multiple Regression Analysis"
+    ],
+    "contributors": [
+      "Abhilash Mishra",
+      "Andrew Kimani", 
+      "Essosolim Apollinaire Abi"
+    ]
+   }

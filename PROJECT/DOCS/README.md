@@ -34,6 +34,7 @@ The research consisted of two independent samples:
   - 10.3% Masters
   - 6.5% High school diploma
   - 1% PhD
+  
 **Sample 2 (N=411)**
 - Participants from 25 African countries
 - Gender distribution: 206 male, 205 female
