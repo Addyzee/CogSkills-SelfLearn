@@ -9,13 +9,11 @@ This research investigates the relationship between cognitive skills (IQ) and le
 ![sample 2](/Sample2/output_2.png)
 
 ## Background & Motivation
-
 ### Historical Context
 
 Intelligence testing has a rich history dating back to 1916 when Binet and Simon developed the first intelligence tests. Initially designed for studying children with developmental disabilities, these tests evolved to become widespread tools for measuring "mental age" across broader populations. The adoption accelerated during World War I when the US Army began using cognitive tests for recruit screening.
 
 ### Theoretical Framework
-
 The research addresses two competing visions of intelligence:
 
 1. **Skills-based Intelligence**: Focuses on task-specific abilities and cognitive skills (often measured as IQ)
@@ -27,12 +25,9 @@ This dichotomy mirrors the historical debate between:
 - The "blank slate" (tabula rasa) vision of mind as a flexible, adaptable process
 
 ## Research Design
-
-### Study Population
-
 The research consisted of two independent samples:
 
-#### Sample 1 (N=107)
+### Sample 1 (N=107)
 
 - Participants from 11 African countries
 - Gender distribution: 58 male, 49 female
@@ -43,7 +38,7 @@ The research consisted of two independent samples:
   - 6.5% High school diploma
   - 1% PhD
 
-#### Sample 2 (N=411)
+### Sample 2 (N=411)
 
 - Participants from 25 African countries
 - Gender distribution: 206 male, 205 female
@@ -54,9 +49,9 @@ The research consisted of two independent samples:
   - 3.4% Tertiary level diploma
   - 1.2% PhD
 
-### Methodology
+## Methodology
 
-#### Assessment Structure
+### Assessment Structure
 
 1. **Written Application**
 
@@ -85,7 +80,7 @@ The research consisted of two independent samples:
      - Application to different contexts
      - Topic familiarity
 
-#### Implementation Differences Between Samples
+### Implementation Differences Between Samples
 
 - **Sample 1**:
 
@@ -104,14 +99,14 @@ The research consisted of two independent samples:
 
 ### Primary Findings
 
-#### Sample 1 (N=107)
+### Sample 1 (N=107)
 
 - Correlation: R = 0.2704
 - R² = 0.073 (p = 0.0048)
 - Cognitive scores explained only 7.3% of learnability variance
 ![sample 1](/Sample1/output_2.png)
 
-#### Sample 2 (N=411)
+### Sample 2 (N=411)
 
 - Correlation: R = 0.3390
 - R² = 0.1149 (p < 0.001)
