@@ -1,6 +1,6 @@
 # Measuring General Intelligence: Learnability vs. Cognitive Skills
 
-> Cognitive scores only explained 11.49% of learnability
+> 📘 Cognitive scores only explained 11.49% of learnability
 
 ## Overview
 
