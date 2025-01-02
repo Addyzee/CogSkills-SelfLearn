@@ -10,7 +10,6 @@ This research investigates the relationship between cognitive skills (IQ) and le
 
 ## Background & Motivation
 ### Historical Context
-
 Intelligence testing has a rich history dating back to 1916 when Binet and Simon developed the first intelligence tests. Initially designed for studying children with developmental disabilities, these tests evolved to become widespread tools for measuring "mental age" across broader populations. The adoption accelerated during World War I when the US Army began using cognitive tests for recruit screening.
 
 ### Theoretical Framework
@@ -28,7 +27,6 @@ This dichotomy mirrors the historical debate between:
 The research consisted of two independent samples:
 
 ### Sample 1 (N=107)
-
 - Participants from 11 African countries
 - Gender distribution: 58 male, 49 female
 - Age range: 19-42 years (mean = 25.38, SD = 4.0)
@@ -39,7 +37,6 @@ The research consisted of two independent samples:
   - 1% PhD
 
 ### Sample 2 (N=411)
-
 - Participants from 25 African countries
 - Gender distribution: 206 male, 205 female
 - Education levels:
@@ -50,16 +47,12 @@ The research consisted of two independent samples:
   - 1.2% PhD
 
 ## Methodology
-
 ### Assessment Structure
-
 1. **Written Application**
-
    - General applicant information
    - Essay questions
 
 2. **Cognitive Assessment**
-
    - Source: International Cognitive Ability Resource and college entry tests
    - Components:
      - Figural analogies
@@ -81,7 +74,6 @@ The research consisted of two independent samples:
      - Topic familiarity
 
 ### Implementation Differences Between Samples
-
 - **Sample 1**:
 
   - 27 cognitive questions
@@ -96,18 +88,14 @@ The research consisted of two independent samples:
 
 
 ## Results
-
 ### Primary Findings
-
 ### Sample 1 (N=107)
-
 - Correlation: R = 0.2704
 - R² = 0.073 (p = 0.0048)
 - Cognitive scores explained only 7.3% of learnability variance
 ![sample 1](/Sample1/output_2.png)
 
 ### Sample 2 (N=411)
-
 - Correlation: R = 0.3390
 - R² = 0.1149 (p < 0.001)
 - Cognitive scores explained 11.49% of learnability variance
@@ -115,7 +103,6 @@ The research consisted of two independent samples:
 
 
 ### Multiple Regression Analysis
-
 Both samples showed significant positive predictors:
 
 - Cognitive scores
@@ -129,7 +116,6 @@ Additional findings:
 - No significant impact from household income or gender
 
 ## Implications
-
 ### Educational Assessment
 
 - Questions the validity of using cognitive tests as primary screening tools
@@ -137,30 +123,25 @@ Additional findings:
 - Highlights importance of measuring learning ability directly
 
 ### AI Development
-
 - Challenges current AI benchmarking approaches
 - Suggests need for new evaluation methods that consider learnability
 - Implications for development of more adaptable AI systems
 
 ### Professional Recruitment
-
 - Questions effectiveness of traditional cognitive testing in hiring
 - Suggests need for incorporating learning ability assessment
 - Implications for job roles requiring continuous learning
 
 ## Conclusions
-
 The study provides empirical evidence that cognitive skills (IQ) are surprisingly weak predictors of learning ability. This finding challenges traditional assumptions about intelligence measurement and suggests the need for more nuanced approaches to both human assessment and AI development.
 
 ### Key Takeaways
-
 1. Cognitive scores explain only 7-11% of learning ability variance
 2. Multiple factors beyond IQ influence learning capability
 3. Traditional intelligence testing may not adequately capture learning potential
 4. Need for revised approaches in educational and professional assessment
 
 ## Future Research Directions
-
 1. Investigation of additional factors influencing learnability
 2. Development of improved learning ability assessment methods
 3. Long-term studies on learning outcomes prediction
@@ -168,5 +149,4 @@ The study provides empirical evidence that cognitive skills (IQ) are surprisingl
 5. Application to AI system evaluation methods
 
 ## Contributors
-
 - Abhilash Mishra - Supervisor
