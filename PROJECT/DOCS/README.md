@@ -3,7 +3,6 @@
 > 📘 Cognitive scores only explained 11.49% of learnability
 
 ## Overview
-
 This research investigates the relationship between cognitive skills (IQ) and learnability in educational contexts, challenging traditional assumptions about intelligence measurement. The study's findings have significant implications for both artificial intelligence development and human resource practices.
 
 ![sample 2](/Sample2/output_2.png)
@@ -26,7 +25,7 @@ This dichotomy mirrors the historical debate between:
 ## Research Design
 The research consisted of two independent samples:
 
-### Sample 1 (N=107)
+**Sample 1 (N=107)**
 - Participants from 11 African countries
 - Gender distribution: 58 male, 49 female
 - Age range: 19-42 years (mean = 25.38, SD = 4.0)
@@ -35,8 +34,7 @@ The research consisted of two independent samples:
   - 10.3% Masters
   - 6.5% High school diploma
   - 1% PhD
-
-### Sample 2 (N=411)
+**Sample 2 (N=411)**
 - Participants from 25 African countries
 - Gender distribution: 206 male, 205 female
 - Education levels:
@@ -89,13 +87,13 @@ The research consisted of two independent samples:
 
 ## Results
 ### Primary Findings
-### Sample 1 (N=107)
+**Sample 1 (N=107)**
 - Correlation: R = 0.2704
 - R² = 0.073 (p = 0.0048)
 - Cognitive scores explained only 7.3% of learnability variance
 ![sample 1](/Sample1/output_2.png)
 
-### Sample 2 (N=411)
+**Sample 2 (N=411)**
 - Correlation: R = 0.3390
 - R² = 0.1149 (p < 0.001)
 - Cognitive scores explained 11.49% of learnability variance
